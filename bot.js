@@ -44,4 +44,4 @@ message.channel.sendEmbed(embed);
 }
 });
 
-client.login('NDc3NTY3NzczNzQ5MjgwNzY4.Dk-JYw.CC-ahxl6Cp_m7LpngT9PacjCHBA'); 
+client.login('NDc3NTc0MTAxMjE3ODM3MDY2.Dk-Iuw.w9HDu4y_M1ayYzEETJVG9OD_hhs'); 
