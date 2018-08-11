@@ -575,5 +575,5 @@ client.on('guildMemberRemove', member => {
 });
 
 ///all Reghit Resverd 2018/2019 DyzerYT
-client.login('NDc3NTY3NzczNzQ5MjgwNzY4.Dk-NnQ.i6c4LRQS-mvrp5ApDTnPZ2gZpGU');
+client.login('NDc3NTY3NzczNzQ5MjgwNzY4.DlAt1g.24xXCf783eQsJc9d4-WD15lG_W4');
 
